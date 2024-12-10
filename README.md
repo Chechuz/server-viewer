@@ -1,6 +1,9 @@
-# UdemyDemo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
+# Server Viewer (Udemy-demo)
+
+
+![srver-status-app](https://github.com/user-attachments/assets/248b2600-0772-4bdb-8089-2bb3b9fa2faa)
+ This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
 
 ## Development server
 
